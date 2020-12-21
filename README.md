@@ -1,4 +1,4 @@
-	싸이월드 3.0 개발 환경 준비
+	3.0 개발 환경 준비
 	개발 환경 준비
 	spring tool suite 3.9.8
 	sourcetree 2.6.10
